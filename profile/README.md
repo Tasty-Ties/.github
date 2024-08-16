@@ -76,12 +76,16 @@
 
 
 # 역할 분담
-
-<table>
+  <table>
   <tr>
       <td align="center">
         <a href="https://github.com/seminss">
           <img src="https://avatars.githubusercontent.com/seminss" width="120px;" alt="seminss">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Basaeng">
+          <img src="https://avatars.githubusercontent.com/Basaeng" width="120px;" alt="Basaeng">
         </a>
       </td>
       <td align="center">
@@ -90,23 +94,18 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/user3">
-          <img src="https://avatars.githubusercontent.com/user3" width="120px;" alt="user3">
+        <a href="https://github.com/sojeong32">
+          <img src="https://avatars.githubusercontent.com/sojeong32" width="120px;" alt="sojeong32">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/user4">
-          <img src="https://avatars.githubusercontent.com/user4" width="120px;" alt="user4">
+        <a href="https://github.com/SeongYunOH">
+          <img src="https://avatars.githubusercontent.com/SeongYunOH" width="120px;" alt="SeongYunOH">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/user5">
-          <img src="https://avatars.githubusercontent.com/user5" width="120px;" alt="user5">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/user6">
-          <img src="https://avatars.githubusercontent.com/user6" width="120px;" alt="user6">
+        <a href="https://github.com/hanakong">
+          <img src="https://avatars.githubusercontent.com/hanakong" width="120px;" alt="hanakong">
         </a>
       </td>
   </tr>
@@ -117,52 +116,89 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/Basaeng">
+        이종민
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jiwon718">
         이지원
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/user3">
-        사용자3
+      <a href="https://github.com/sojeong32">
+        박소정
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/user4">
-        사용자4
+      <a href="https://github.com/SeongYunOH">
+        오성윤
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/user5">
-        사용자5
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/user6">
-        사용자6
+      <a href="https://github.com/hanakong">
+        정원빈
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      역할 분담1
+        팀장, BE
     </td>
     <td align="center">
-      역할 분담2
+      BE
     </td>
     <td align="center">
-      역할 분담3
+      BE
     </td>
     <td align="center">
-      역할 분담4
+      FE
     </td>
     <td align="center">
-      역할 분담5
+      FE
     </td>
     <td align="center">
-      역할 분담6
+      FE
     </td>
   </tr>
 </table>
+
+## 🐰 김세민 (BE & 팀장)
+
+- 인프라
+- Web-RTC
+- STT
+- 제스처 감지
+
+## 🐥 이종민 (BE)
+
+- 회원 관리
+- 쿠킹 클래스
+- 앨범
+- 마일리지 / 랭킹
+
+## 🦊 이지원 (BE)
+
+- 메인페이지, 인트로 페이지 화면 구현
+- Firebase 알림
+- 채팅 및 번역
+
+## 🐹 박소정 (FE)
+
+- 회원 관리
+- 마일리지
+
+## 🐧 오성윤 (FE)
+
+- Web-RTC
+- 웹소켓을 사용한 채팅 구현
+
+## 🦝 정원빈 (FE)
+
+- 쿠킹 클래스
+- 앨범
+- 랭킹
+<br/>
 
 
 
