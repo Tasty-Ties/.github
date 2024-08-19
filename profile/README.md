@@ -71,7 +71,15 @@
 
 
 # 프로젝트 소개 및 주요 기능
-
+## 🙋‍♀️ 요리와 소통을 음성으로 간편하게
+요리 중 손으로 채팅하기 힘들 때 음성 채팅으로 손쉽게 소통할 수 있습니다.
+<img src="https://github.com/user-attachments/assets/fac618ef-8862-446d-b7df-aa3264a6bcda" width="750px" alt="음성채팅" />
+## 👩🏽‍🤝‍👩🏻 언어 걱정 없이, 전 세계 친구들과 소통
+서로 다른 언어로 채팅해도 자동 번역으로 모두가 이해할 수 있습니다.
+<img src="https://github.com/user-attachments/assets/80ecdc7b-0b0b-4abf-81cd-de26b9090f99" width="750px" alt="실시간번역" />
+## 📷 요리하며 쌓아가는 추억의 한 페이지
+요리 클래스 중 찍은 모든 순간을 앨범으로 저장해, 언제든지 추억을 꺼내볼 수 있습니다.
+<img src="https://github.com/user-attachments/assets/56a309db-23db-4fa5-bdb3-6b59342d0cc3" width="750px" alt="요리앨범" />
 
 
 
