@@ -28,6 +28,8 @@
 | [📜 그라운드룰](https://www.notion.so/b140c7ec4658449199aef1b7978dce7d?pvs=21) | [🛠️ 컨벤션](https://www.notion.so/b140c7ec4658449199aef1b7978dce7d?pvs=21) |
 
 
+<br>
+
 
 
 # 기획
@@ -42,7 +44,10 @@
 
 # 시연 영상
 
-[![Project Overview]()
+[🎞 시연 영상](https://youtu.be/Wilj-IY9F-w)
+
+
+<br>
 
 
 
